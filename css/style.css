@@ -10979,7 +10979,7 @@ h5,
 .navbar-brand {
   font-weight: 800;
   font-size: 20px;
-  text-transform: uppercase;
+  /* text-transform: uppercase; */
 }
 
 .hero-wrap {
@@ -12014,7 +12014,7 @@ textarea.form-control {
   padding: 7em 0;
 }
 .ftco-footer .logo {
-  text-transform: uppercase;
+  /* text-transform: uppercase; */
   font-weight: 700;
   color: #fff;
 }
