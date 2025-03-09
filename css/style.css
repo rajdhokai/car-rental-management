@@ -11127,7 +11127,7 @@ h5,
   box-shadow: 0px 5px 12px -1px rgba(0, 0, 0, 0.06);
 }
 .request-form h2 {
-  color: #fff;
+  color: #993441;
   font-size: 22px;
   font-weight: 600;
 }
@@ -11334,7 +11334,7 @@ h5,
 .btn.btn-primary {
   background: #ffb8b1 !important;
   border: 1px solid #ffb8b1 !important;
-  color: #fff !important;
+  color: #993441 !important;
 }
 .btn.btn-primary:hover {
   border: 1px solid #ffb8b1;
@@ -11837,7 +11837,7 @@ h5,
   border: none;
 }
 .services.services-2 .icon span {
-  color: #fff;
+  color: #993441;
 }
 
 .ftco-intro {
