@@ -13014,3 +13014,28 @@ textarea.form-control {
     stroke-dashoffset: -136px;
   }
 }
+
+.map-container {
+  width: 100%; /* Full width */
+  height: 60vh; /* 60% of the viewport height */
+  max-height: 500px; /* Maximum height */
+  min-height: 300px; /* Minimum height */
+  margin: auto; /* Centers the map */
+  border-radius: 10px; /* Optional: Rounded corners */
+  overflow: hidden;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); /* Optional: Shadow effect */
+}
+
+.map-container iframe {
+  width: 100%;
+  height: 100%;
+  border: none;
+}
+
+/* Extra responsiveness for mobile */
+@media (max-width: 768px) {
+  .map-container {
+    height: 50vh; /* Adjust height for mobile */
+    min-height: 250px;
+  }
+}
